@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**RomaLytar/RomaLytar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm **Roman Lytar** — a Software Engineer with **9+ years** of experience
+building production systems that stay fast under real load.
 
-Here are some ideas to get you started:
+I write backends in **PHP** and **Go**, craft interfaces with **Vue 3**, and design
+systems around **CQRS**, **Event Sourcing** and clean **DDD** boundaries. I'm the
+author of the open-source **Yammi** ecosystem — clean, well-tested packages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 Author & maintainer of the **Yammi** open-source packages
+- 🏗️ DDD · Clean Architecture · CQRS · Event-Driven design
+- ⚡ High-load systems, queue **worker balancing** & horizontal scaling
+- 📈 Performance & **load testing with k6** before anything ships
+- 🧪 Strong on testing — usually tests right after the feature, TDD when it fits; high coverage as a habit
+- 📫 Reach me **only by email**: romalytar@gmail.com
+
+## Engineering Focus
+
+- **Architecture:** CQRS, Event Sourcing, Domain-Driven Design, Hexagonal / Clean Architecture
+- **Scaling:** worker pools & load balancing, queue throughput tuning, graceful back-pressure
+- **Reliability:** load & stress testing with **k6**, profiling, fail-closed write paths
+- **Quality:** solid test coverage, static analysis (PHPStan level 8), strict typing, CI gates
+
+## Languages and Tools
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![k6](https://img.shields.io/badge/k6%20Load%20Testing-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## My GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=RomaLytar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLytar&layout=compact&theme=tokyonight)
+
+## Where to find me
+
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:romalytar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RomaLytar)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/роман-лытарь-88619b13a/)
