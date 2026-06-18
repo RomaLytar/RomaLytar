@@ -7,12 +7,12 @@ I write backends in **PHP** and **Go**, craft interfaces with **Vue 3**, and des
 systems around **CQRS**, **Event Sourcing** and clean **DDD** boundaries. I'm the
 author of the open-source **Yammi** ecosystem — clean, well-tested packages.
 
-- 🧩 Author & maintainer of the **Yammi** open-source packages
-- 🏗️ DDD · Clean Architecture · CQRS · Event-Driven design
-- ⚡ High-load systems, queue **worker balancing** & horizontal scaling
-- 📈 Performance & **load testing with k6** before anything ships
-- 🧪 Strong on testing — usually tests right after the feature, TDD when it fits; high coverage as a habit
-- 📫 Reach me **only by email**: romalytar@gmail.com
+<img src="https://api.iconify.design/lucide/package.svg?color=%237aa2f7" height="18" align="center" />&nbsp; Author & maintainer of the **Yammi** open-source packages  
+<img src="https://api.iconify.design/lucide/layers.svg?color=%237aa2f7" height="18" align="center" />&nbsp; DDD · Clean Architecture · CQRS · Event-Driven design  
+<img src="https://api.iconify.design/lucide/server.svg?color=%237aa2f7" height="18" align="center" />&nbsp; High-load systems, queue **worker balancing** & horizontal scaling  
+<img src="https://api.iconify.design/lucide/gauge.svg?color=%237aa2f7" height="18" align="center" />&nbsp; Performance & **load testing with k6** before anything ships  
+<img src="https://api.iconify.design/lucide/flask-conical.svg?color=%237aa2f7" height="18" align="center" />&nbsp; Strong on testing — usually tests right after the feature, TDD when it fits; high coverage as a habit  
+<img src="https://api.iconify.design/lucide/mail.svg?color=%237aa2f7" height="18" align="center" />&nbsp; Reach me **only by email**: romalytar@gmail.com
 
 ## Engineering Focus
 
