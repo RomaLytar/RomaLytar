@@ -35,8 +35,8 @@ holds up under real load.
 
 ## My GitHub Stats
 
-[![GitHub followers](https://img.shields.io/github/followers/RomaLytar?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=181717)](https://github.com/RomaLytar?tab=followers)
-[![Years on GitHub](https://img.shields.io/badge/On%20GitHub-since%202016-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RomaLytar)
+![Stats](https://github-readme-stats.vercel.app/api?username=RomaLytar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaLytar&layout=compact&theme=tokyonight)
 
 ## Where to find me
 
